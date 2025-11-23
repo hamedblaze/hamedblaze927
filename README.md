@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 
 <html dir="rtl" lang="fa">
 <head>
@@ -351,12 +350,10 @@
 <i class="w-6 h-6" data-lucide="youtube"></i>
 </a>
 <a href=https://Instagram.com/hamed_blaze92/
-	
 <a class="bg-gaming-surface hover:bg-gaming-red p-3 rounded-full transition-colors duration-300" href="#">
 <i class="w-6 h-6" data-lucide="instagram"></i>
 </a>
 <a href=minecraft://?addExternalServer=hamedxward84|hamedxward84.aternos.me:53943
-	
 <a class="bg-gaming-surface hover:bg-gaming-red p-3 rounded-full transition-colors duration-300" href="#">
 <i class="w-6 h-6" data-lucide="add external server"></i>
 </a>
@@ -553,13 +550,11 @@
 <div>
 <h4 class="text-lg font-bold mb-4 text-gaming-accent">دنبال کن</h4>
 <div class="flex gap-3 mb-4">
-<a href=https://youtube.com/@hamedblaze</a>
-	
+<a href=https://youtube.com/@hamedblaze
 <a class="bg-gaming-dark hover:bg-gaming-red p-3 rounded-lg transition-colors" href="#">
 <i class="w-5 h-5" data-lucide="youtube"></i>
 </a>
 <a href=https://Instagram.com/hamed_blaze92/</a>
-	
 <a class="bg-gaming-dark hover:bg-gaming-red p-3 rounded-lg transition-colors" href="#">
 <i class="w-5 h-5" data-lucide="instagram"></i>
 </a>
@@ -580,6 +575,7 @@
 		c9.3,9.3,24.4,9.3,33.8,0l195.5-195.5c9.3-9.3,9.3-24.4,0-33.8L569.3,340c-9.3-9.3-9.3-24.4,0-33.8L639.1,236.3z M497.9,361.3
 		c0,75-61.4,136.4-136.4,136.4h-76.7c-75,0-136.4-61.4-136.4-136.4v-76.7c0-75,61.4-136.4,136.4-136.4h76.7
 		c75,0,136.4,61.4,136.4,136.4V361.3z"></path>
+	
 <a href="https://exaroton.com">
 <img scr=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8jaCY7J7VQVeLDVssS9feaksMGqZjm51AsA&s
                 <div class="header-exaroton-link-right">
@@ -597,7 +593,8 @@
 <div class="border-t border-gaming-border pt-8 text-center">
 <p class="text-gray-400 persian-text">
           © 2025 HamedBLAZE - تمامی حقوق محفوظ است | ساخته شده با ❤️ برای گیمرها
-        </p>                         https://exaroton.com
+</p>                         https://exaroton.com
+	
 </footer>
 <!-- @END_COMPONENT: Footer -->
 <script>
