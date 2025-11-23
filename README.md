@@ -581,8 +581,7 @@
 		c0,75-61.4,136.4-136.4,136.4h-76.7c-75,0-136.4-61.4-136.4-136.4v-76.7c0-75,61.4-136.4,136.4-136.4h76.7
 		c75,0,136.4,61.4,136.4,136.4V361.3z"></path>
 <a href="https://exaroton.com">
-	
-<img scr=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8jaCY7J7VQVeLDVssS9feaksMGqZjm51AsA&s>
+<img scr=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8jaCY7J7VQVeLDVssS9feaksMGqZjm51AsA&s
                 <div class="header-exaroton-link-right">
                     <div class="header-exaroton-link-text-main">
                         برای بازی کردن، فقط پرداخت کنید.                    </div>
