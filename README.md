@@ -341,8 +341,8 @@
 <div class="text-center">
 <!-- A professional gaming portrait with dramatic lighting and gaming setup in background -->
 <a href="https://aparat.com/hamedblaze">
-
 <img alt="HamedBLAZE profile picture" class="w-80 h-80 rounded-full mx-auto border-4 border-gaming-red shadow-lg hover-lift" src="https://static.cdn.asset.aparat.com/profile-photo/19906500-243039-m.jpg"/>
+	
 <!-- Social Links -->
 <div class="flex justify-center gap-4 mt-8">
 <a href=https://youtube.com/@hamedblaze">
