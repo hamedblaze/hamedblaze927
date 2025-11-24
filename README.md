@@ -589,7 +589,9 @@
 <div class="border-t border-gaming-border pt-8 text-center">
 <p class="text-gray-400 persian-text">
           © 2025 HamedBLAZE - تمامی حقوق محفوظ است | ساخته شده با ❤️ برای گیمرها
-</p>                         https://exaroton.com
+                            <a href=https://exaroton.com</a>
+</p>
+
 	
 </footer>
 <!-- @END_COMPONENT: Footer -->
