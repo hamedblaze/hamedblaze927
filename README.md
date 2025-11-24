@@ -345,11 +345,11 @@
 <img alt="HamedBLAZE profile picture" class="w-80 h-80 rounded-full mx-auto border-4 border-gaming-red shadow-lg hover-lift" src="https://static.cdn.asset.aparat.com/profile-photo/19906500-243039-m.jpg"/>
 <!-- Social Links -->
 <div class="flex justify-center gap-4 mt-8">
-<a href=https://youtube.com/@hamedblaze
+<a href=https://youtube.com/@hamedblaze"/>
 <a class="bg-gaming-surface hover:bg-gaming-red p-3 rounded-full transition-colors duration-300" href="#">
 <i class="w-6 h-6" data-lucide="youtube"></i>
 </a>
-<a href=https://Instagram.com/hamed_blaze92/
+<a href=https://Instagram.com/hamed_blaze92/"/>
 <a class="bg-gaming-surface hover:bg-gaming-red p-3 rounded-full transition-colors duration-300" href="#">
 <i class="w-6 h-6" data-lucide="instagram"></i>
 </a>
@@ -546,11 +546,11 @@
 <div>
 <h4 class="text-lg font-bold mb-4 text-gaming-accent">دنبال کن</h4>
 <div class="flex gap-3 mb-4">
-<a href=https://youtube.com/@hamedblaze
+<a href=https://youtube.com/@hamedblaze"/>
 <a class="bg-gaming-dark hover:bg-gaming-red p-3 rounded-lg transition-colors" href="#">
 <i class="w-5 h-5" data-lucide="youtube"></i>
 </a>
-<a href=https://Instagram.com/hamed_blaze92/</a>
+<a href=https://Instagram.com/hamed_blaze92/"/>
 <a class="bg-gaming-dark hover:bg-gaming-red p-3 rounded-lg transition-colors" href="#">
 <i class="w-5 h-5" data-lucide="instagram"></i>
 </a>
