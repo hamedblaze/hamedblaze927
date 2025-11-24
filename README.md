@@ -353,10 +353,6 @@
 <a class="bg-gaming-surface hover:bg-gaming-red p-3 rounded-full transition-colors duration-300" href="#">
 <i class="w-6 h-6" data-lucide="instagram"></i>
 </a>
-<a href=minecraft://?addExternalServer=hamedxward84|hamedxward84.aternos.me:53943
-<a class="bg-gaming-surface hover:bg-gaming-red p-3 rounded-full transition-colors duration-300" href="#">
-<i class="w-6 h-6" data-lucide="add external server"></i>
-</a>
 </div>
 </div>
 <!-- Bio Content -->
@@ -577,7 +573,7 @@
 		c75,0,136.4,61.4,136.4,136.4V361.3z"></path>
 	
 <a href="https://exaroton.com">
-<img alt="Latest gaming video thumbnail" class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8jaCY7J7VQVeLDVssS9feaksMGqZjm51AsA&s"/>
+<img src="Latest gaming video thumbnail" class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8jaCY7J7VQVeLDVssS9feaksMGqZjm51AsA&s"/>
                 <div class="header-exaroton-link-right">
                     <div class="header-exaroton-link-text-main">
                         برای بازی کردن، فقط پرداخت کنید.                    </div>
